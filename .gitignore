@@ -1,0 +1,18 @@
+# Raw source data
+02_Data/Raw_Data/
+
+# Large Power BI files
+*.pbix
+*.pbit
+
+# Temporary files
+*.tmp
+*.temp
+
+# Python
+__pycache__/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
